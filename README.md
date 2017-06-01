@@ -1,4 +1,4 @@
-# My-MVC
+# MyMVC
 Custom construction of MVC framework. This project has already developed outside git repository.
 
 ## Instructions
